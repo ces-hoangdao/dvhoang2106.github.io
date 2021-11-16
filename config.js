@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'cậu mơ à :333',
     question:'Nói cho tới lý do vì sao cậu yêu tớ đii <3',
     btnReply: 'Gửi cho tớ <3',
-    reply: 'Vì bạn khùng nhưng vì yêu bạn nên mình yêu mọi thứ về bạn:>>>>',
+    reply: 'Vì bạn cực kỳ đẹp trai và cute nên mình yêu mọi thứ về bạn:>>>>',
     mess: 'Tớ biết mà 🥰. Love you 300.000 😘😘',
     messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.',
     btnAccept: 'Okiiiii lun <3',
